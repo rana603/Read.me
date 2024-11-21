@@ -8,17 +8,7 @@
 
 - 🙋‍♂️ All about me is at My Website
 
-- 💡 I like to explore new Technologies and Develop Software solutions
-
-- 🔭 I’m currently working on Backend Projects.
-
-- 🌱 I’m currently learning MERN Stack
-
-- 🤔 I’m looking for help with Competitive Programming
-
-- 👯 I’m currently searching for a new career opportunity in Software Industry
-
-- 💬 Ask me about Code, Frontend, DSA, Web, Softwaredevelopment
+- 💡 I like to explore new Technologies and Develop Software Skils
 
 - 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
 
