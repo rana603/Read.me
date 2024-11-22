@@ -4,10 +4,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rana603" alt="rana603" /></a> </p>
 
 🔎 About Me
-💻 What I Do: Transform raw data into actionable insights to drive business decisions.
-📊 Specialties: Exploratory Data Analysis, Data Visualization, and Statistical Modeling.
-🛠️ Tools I Use: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Excel, Power BI.
-🎯 Focus Areas: Data Cleaning, Dashboards, Forecasting, and Machine Learning Models for Analytics.
+- 💻 What I Do: Transform raw data into actionable insights to drive business decisions.
+- 📊 Specialties: Exploratory Data Analysis, Data Visualization, and Statistical Modeling.
+- 🛠️ Tools I Use: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Excel, Power BI.
+- 🎯 Focus Areas: Data Cleaning, Dashboards, Forecasting, and Machine Learning Models for Analytics.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
