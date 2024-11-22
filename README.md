@@ -15,6 +15,7 @@
 - Power BI
 - HTML | CSS | Javascript
 - Jupyter Notebooks
+
 🌟 Expertise:
 - Data Wrangling & Cleaning
 - Data Visualization & Dashboarding
