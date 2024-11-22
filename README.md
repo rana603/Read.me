@@ -5,7 +5,7 @@
 - 💻 What I Do: Transform raw data into actionable insights to drive business decisions.
 - 📊 Specialties: Exploratory Data Analysis, Data Visualization, and Statistical Modeling.
 - 🛠️ Tools I Use: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Excel, Power BI.
-- 🎯 Focus Areas: Data Cleaning, Dashboards, Forecasting, and Machine Learning Models for Analytics.
+- 🎯 Focus Areas: Data Cleaning, Dashboards and Forecasting
 
 🌟 Skills
 - Programming & Tools:
