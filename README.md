@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm Gautam Singh</h1>
 <h3 align="center">Data Analyst | Storyteller with Data | Enthusiast of Insights</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rana603" alt="rana603" /></a> </p>
-
 🔎 About Me
 - 💻 What I Do: Transform raw data into actionable insights to drive business decisions.
 - 📊 Specialties: Exploratory Data Analysis, Data Visualization, and Statistical Modeling.
 - 🛠️ Tools I Use: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Excel, Power BI.
 - 🎯 Focus Areas: Data Cleaning, Dashboards, Forecasting, and Machine Learning Models for Analytics.
+
+🌟 Skills
+- Programming & Tools:
+- Python | java
+- SQL
+- Excel (Advanced Functions, VBA)
+- Power BI
+- HTML | CSS | Javascript
+- Jupyter Notebooks
+🌟 Expertise:
+- Data Wrangling & Cleaning
+- Data Visualization & Dashboarding
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rana603&show_icons=true&locale=en" alt="rana603" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rana603&" alt="rana603" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rana603" alt="rana603" /></a> </p>
