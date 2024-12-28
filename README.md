@@ -11,7 +11,7 @@
 - Programming & Tools:
 - Python | java
 - SQL
-- Excel (Advanced Functions, VBA)
+- Excel (Advanced Functions)
 - Power BI
 - HTML | CSS | Javascript
 - Jupyter Notebooks
